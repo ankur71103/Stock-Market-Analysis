@@ -1,0 +1,12 @@
+https://www.zenrows.com/blog/403-web-scraping#avoid-ip-bans
+
+# get company list
+ 
+ https://ticker.finology.in/sector
+
+
+
+
+
+
+# ratios data can be made in other section of the app
